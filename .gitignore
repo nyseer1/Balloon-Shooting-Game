@@ -1,0 +1,44 @@
+    # Unity generated files
+    /[Ll]ibrary/
+    /[Tt]emp/
+    /[Oo]bj/
+    /[Bb]uild/
+    /[Ll]ogs/
+    /[Mm]emoryCaptures/
+    /[Ss]napshots/
+    /[Pp]ackages/
+    /[Aa]ssembly-[Cc]sharp.csproj
+    /[Aa]ssembly-[Cc]sharp-[Ee]ditor.csproj
+    /[Aa]ssembly-[Cc]sharp-[Tt]ests.csproj
+    /[Aa]ssembly-[Cc]sharp-[Tt]ests-[Ee]ditor.csproj
+    *.unityproj
+    *.pidb
+    *.suo
+    *.user
+    *.userprefs
+    *.csproj
+    *.vspscc
+    *.vssscc
+    *.sln
+    *.bak
+
+    # Visual Studio Code
+    .vscode/
+
+    # Rider
+    .idea/
+
+    # Mac
+    .DS_Store
+    # Thumbs.db is a Windows-specific file that stores thumbnail images of files in a folder.
+    Thumbs.db
+
+    # Local settings
+    # You might want to ignore local settings files if they contain sensitive information
+    # or are specific to your local setup and not meant to be shared with the team.
+    # For example:
+    # Assets/Plugins/Editor/MyPluginSettings.asset
+
+    # Ignore specific files if needed
+    # For example:
+    # Assets/Art/Character.png
